@@ -20,7 +20,7 @@ title                    : "Sungmin Ji's homepage"
 title_separator          : "-"
 subtitle                 : "Statistics and ecology & evolutionary biology" # site tagline that appears below site title in masthead
 name                     : "Sungmin Ji"
-description              : "An amazing website."
+description              : "Hello, this is Sungmin Ji's website. I will post a several biostatistical topics"
 url                      : "https://tyrashark.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
