@@ -16,7 +16,7 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-South Korea"
+locale                   : "en-US"
 title                    : "Sungmin Ji's homepage"
 title_separator          : "-"
 subtitle                 : Statistics and ecology & evolutionary biology# site tagline that appears below site title in masthead
