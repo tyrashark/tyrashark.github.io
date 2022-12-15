@@ -5,4 +5,4 @@ categories: jekyll update
 ---
 
 
-https://tyrashark.github.io/folder/CV_Sungmin.pdf
+https://tyrashark.github.io/folder/CV_Sungmin_v3.pdf
