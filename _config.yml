@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I have liked living things in my entire life. My academic goal is studying the principle of life."
   location         : "Seoul, Republic of Korea"
-  email            : "tyrashark@g.skku.edu"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
